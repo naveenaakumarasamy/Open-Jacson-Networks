@@ -18,8 +18,7 @@ Visual components and Python
 
 ## Experiment:
 ![Screenshot 2023-05-25 110826](https://github.com/naveenaakumarasamy/Open-Jacson-Networks/assets/113497406/8ba7c389-b4db-4316-960a-dccdd5331ea2)
-![Screenshot 2023-05-25 110826](https://github.com/naveenaakumarasamy/Open-Jacson-Networks/assets/113497406/eee10719-7975-46f4-9eba-6a7485f4efa2)
-
+![Screenshot 2023-05-25 110826](https://github.com/naveenaakumarasamy/Open-Jacson-Networks/assets/113497406/8ba7c389-b4db-4316-960a-dccdd5331ea2)
 
 ## Program
 ```## Developed by: NAveenaa A.K
@@ -64,7 +63,7 @@ print("-----------------------------------------------------------------")
 ```
 
 ## Output
-![Screenshot (78)](https://github.com/naveenaakumarasamy/Open-Jacson-Networks/assets/113497406/3edb21ff-6d97-4a5d-a2c4-18a67fda1758)
+![Screenshot (78)](https://github.com/naveenaakumarasamy/Open-Jacson-Networks/assets/113497406/d1eaa4a4-2102-4a07-8260-7612e555a070)
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
